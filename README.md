@@ -26,7 +26,7 @@
 
 <h2>Live App Link</h2>
 
-https://wonderful-beaver-3ecebb.netlify.app
+<a target="_blank">https://wonderful-beaver-3ecebb.netlify.app</a>
 
 
 <h2>Future enhancements</h2>
