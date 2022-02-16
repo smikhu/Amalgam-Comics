@@ -1,4 +1,4 @@
-<h1>Superheroes & Villains(placeholder)</h1>
+<h1>Amalgam Comics</h1>
 
 <h2>App Description</h2>
 <h4>An app where you can search your favorite hero/villain and find information and statistics about them.</h4>
