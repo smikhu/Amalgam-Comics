@@ -28,7 +28,7 @@ function Page2(props) {
             <div className="grid grid-item9">
                 <h3><span className="seven">9. ALIASES</span></h3>
                 <div className="aliases bubble2 bubble-bottom-right">
-                    <h4 className="red">Aliases - </h4>
+                    <h4 className="red">Aliases</h4>
                     {props.characters?.biography?.aliases[0] ? <p>-{props.characters?.biography?.aliases[0]}</p> : null}
                     {props.characters?.biography?.aliases[1] ? <p>-{props.characters?.biography?.aliases[1]}</p> : null}
                     {props.characters?.biography?.aliases[2] ? <p>-{props.characters?.biography?.aliases[2]}</p> : null}
