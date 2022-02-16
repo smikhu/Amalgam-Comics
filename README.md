@@ -21,14 +21,22 @@
 
 <h2>App Images</h2>
 <h4>Desktop</h4>
+
 ![](images/Desktop1.png)
+
 ![](images/Desktop2.png)
+
 ![](images/Desktop3.png)
 
+
 <h4>Mobile</h4>
+
 ![](images/Mobile1.png)
+
 ![](images/Mobile2.png)
+
 ![](images/Mobile3.png)
+
 
 <h2>Live App Link</h2>
 https://wonderful-beaver-3ecebb.netlify.app
