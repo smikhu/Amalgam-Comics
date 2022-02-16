@@ -5,10 +5,10 @@
 
 <h2>Technologies Used</h2>
 <ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>React</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
 </ul>
 
 <h2>Wireframe</h2>
@@ -21,13 +21,21 @@
 
 <h2>App Images</h2>
 <h4>Desktop</h4>
+![](images/Desktop1.png)
+![](images/Desktop2.png)
+![](images/Desktop3.png)
 
 <h4>Mobile</h4>
+![](images/Mobile1.png)
+![](images/Mobile2.png)
+![](images/Mobile3.png)
 
 <h2>Live App Link</h2>
-
-<a target="_blank">https://wonderful-beaver-3ecebb.netlify.app</a>
+https://wonderful-beaver-3ecebb.netlify.app
 
 
 <h2>Future enhancements</h2>
-
+<ul>
+  <li>Drop down for search bar to access other characters</li>
+  <li>Styling for page 3</li>
+</ul>
