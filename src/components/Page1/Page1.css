@@ -1,0 +1,49 @@
+.grid-item1 {
+    grid-row: 1/4;
+    grid-column: 1/4;
+    background-image: url(/images/bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .grid-item2 {
+    grid-column: 4/7;
+    background-image: url('https://i.imgur.com/dPXA8sv.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .grid-item3 {
+    grid-column: 4/5;
+    background-image: url('https://i.imgur.com/2sumZ1s.png');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .grid-item4 {
+    grid-column: 5/7;
+    background-image: url(/images/bang.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  
+  .grid-item5 {
+    grid-column: 4/5;
+    background-image: url(/images/pow.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .grid-item6 {
+    grid-column: 5/7;
+    background-image: url(/images/bubble4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }

@@ -1,3 +1,148 @@
-.App {
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 25px;
+  height: 100vh;
+  font-family: 'Bangers', cursive;
+  font-size: 15px;
+  letter-spacing: 1px
+}
+
+.pages {
+  display: flex;
+  margin-left: 20px;
+}
+
+.page {
+  border: 4px solid black;
+  width: 50px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: 1px;
+  text-align: center;
+  background-color: #fdf5b9;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color:black; }
+a:focus { text-decoration: none; color:black; }
+a:hover, a:active { text-decoration: none; color:black }
+
+.css-grid {
+  display: grid;
+  grid-gap: 5px;
+  margin: 0 auto;
+}
+
+.grid {
+  border: 4px solid black;
+  border-radius: 5px;
+  background-color: #fff4a3;
+  min-height: 250px;
+  /* grid-auto-rows: minmax(100px, auto); */
+  padding: 5px;
+}
+
+.img {
+  border: 3px solid black;
+  width: 350px;
+  height: 500px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px 1px black;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.search-bar {
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 70px;
+  height: 35px;
+  outline: none;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px 1px black;
+  font-family: 'Bangers', cursive;
+  font-size: 20px;
+}
+
+.search-bar:focus::placeholder {
+  color: transparent;
+}
+
+
+.search {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  text-align: center;
+  height: 30px;
+  box-shadow: 2px 2px 10px 1px black;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: 'Bangers', cursive;
+  font-size: 25px;
+}
+
+.search:hover{
+  background-color: red;
+  color: white;
+  transition: ease-in 0.2s;
+}
+
+.name {
+  display: block;
+  margin: 0 auto;
+  padding: 50px 0;
+  text-align: center;
+  font-size: 45px;
+}
+
+.race {
+  display: block;
+  margin: 0 auto;
+  padding: 70px 0;
+  text-align: center;
+  font-size: 45px;
+}
+
+.footer {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.title {
+  display: block;
+  margin: 0 auto;
   text-align: center;
 }
+
+.purple {
+  color: purple;
+}
+
+
+@media only screen and (max-width: 900px) {
+
+  .css-grid {
+  display: block;
+  }
+
+  .img {
+    margin-bottom: 100px;
+  }
+
+  }
