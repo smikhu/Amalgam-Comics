@@ -22,20 +22,20 @@
 <h2>App Images</h2>
 <h4>Desktop</h4>
 
-![](images/Desktop1.png =250x250)
+![](images/Desktop1.png | width=100)
 
-![](images/Desktop2.png =250x250)
+![](images/Desktop2.png | width=100)
 
-![](images/Desktop3.png =250x250)
+![](images/Desktop3.png | width=100)
 
 
 <h4>Mobile</h4>
 
-![](images/Mobile1.png =250x250)
+![](images/Mobile1.png | width=100)
 
-![](images/Mobile2.png =250x250)
+![](images/Mobile2.png | width=100)
 
-![](images/Mobile3.png =250x250)
+![](images/Mobile3.png | width=100)
 
 
 <h2>Live App Link</h2>
