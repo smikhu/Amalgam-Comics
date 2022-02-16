@@ -116,17 +116,18 @@
     }
   
   .bubble2 {
-      border: 4px solid black;
-      display: block;
-      margin: 0 auto;
-      position: relative;
-      font-size: 24px;
-      width: 70%;
+    border: 4px solid black;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    font-size: 24px;
+    width: 70%;
     background: #fff;
     border-radius: 40px;
     padding: 10px;
     text-align: center;
     color: #000;
+
 }
   
 .bubble-bottom-right:before {
