@@ -45,5 +45,6 @@ https://wonderful-beaver-3ecebb.netlify.app
 <h2>Future enhancements</h2>
 <ul>
   <li>Drop down for search bar to access other characters</li>
+  <li>Implement promises chaining instead of separate handlefetch for each search bar</li>
   <li>Styling for page 3</li>
 </ul>
